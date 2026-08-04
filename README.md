@@ -8,6 +8,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
+| [3731-find-missing-elements](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3731-find-missing-elements](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +45,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3731-find-missing-elements](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 <!---LeetCode Topics End-->

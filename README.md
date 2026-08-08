@@ -28,6 +28,7 @@
 | [0486-predict-the-winner](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +67,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 <!---LeetCode Topics End-->

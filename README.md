@@ -7,6 +7,7 @@
 | [0486-predict-the-winner](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
@@ -15,6 +16,7 @@
 | [0486-predict-the-winner](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Sorting
@@ -27,6 +29,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Recursion
@@ -38,14 +41,17 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -79,4 +85,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->

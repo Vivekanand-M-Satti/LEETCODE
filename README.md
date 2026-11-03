@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0486-predict-the-winner](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0877-stone-game/) | Medium |
@@ -79,6 +80,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## String

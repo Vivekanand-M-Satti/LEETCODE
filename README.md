@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0007-reverse-integer/) | Medium |
 | [0486-predict-the-winner](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0877-stone-game/) | Medium |

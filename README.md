@@ -86,6 +86,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vivekanand-M-Satti/LEETCODE/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Greedy
